@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <?php
 function download($patch = 'inne')
 {
@@ -23,3 +26,5 @@ else
 	download($_GET['patch']);
 	}
 	?>
+</body>
+</html>
