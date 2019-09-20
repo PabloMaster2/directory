@@ -22,3 +22,4 @@ else
 	{
 	download($_GET['patch']);
 	}
+	?>
